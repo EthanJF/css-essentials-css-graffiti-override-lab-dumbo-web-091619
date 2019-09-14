@@ -19,7 +19,7 @@
   display: none;
 }
 
-#wall .parent:nth-of-type(3) div + div #tag-6 {
+#wall .parent:nth-child(6) div + div #tag-6 {
   display: none;
 }
 
