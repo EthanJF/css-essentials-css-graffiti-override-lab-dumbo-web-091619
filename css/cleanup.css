@@ -19,7 +19,7 @@
   display: none;
 }
 
-#wall div.parent:nth-child(3) #tag-6 {
+#wall div.parent:nth-child(3) #tag-6.slick {
   display: none;
 }
 
