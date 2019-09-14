@@ -23,6 +23,6 @@
   display: none;
 }
 
-body div#wall div.parent div > #tag-7.slick {
+#wall .parent:nth-child(7) div > #tag-7.slick {
   display: none;
 }
