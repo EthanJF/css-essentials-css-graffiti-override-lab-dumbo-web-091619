@@ -7,7 +7,7 @@
   display: none;
 }
 
-div #wall .tag-1 + #tag-2 .wicked {
+div #wall .tag-1 + #tag-2 + .wicked {
   display: none;
 }
 
